@@ -2,7 +2,7 @@
 
 ### Learning Objectives:
 1. Understand the fundamentals of process creation, management, and execution in Linux.
-2. Gain proficiency in using system calls and functions for implementing shell functionalities, including executing internal and external commands, handling command-line arguments, implementing file redirection, and managing command pipelines.
+2. Gain proficiency in using system calls and functions for implementing shell functionalities, including executing internal and external commands, handling command-line arguments.
 3. Learn about signal handling mechanisms in Linux, particularly for handling SIGINT signals.
 4. Develop problem-solving skills through designing and implementing a robust and responsive shell program.
 
